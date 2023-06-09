@@ -1,0 +1,8 @@
+﻿  ta_lab2_z2.cpp
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(51,25): warning C4477: "scanf_s": в строке форматирования "%[^0-9\n]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "size_t"
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(51,25): message : этот аргумент используется в качестве размера буфера
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(63,25): warning C4477: "scanf_s": в строке форматирования "%[^\n]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "size_t"
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(63,25): message : этот аргумент используется в качестве размера буфера
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(75,25): warning C4477: "scanf_s": в строке форматирования "%[^\n]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "size_t"
+E:\repository\ta_lab2_z2\ta_lab2_z2.cpp(75,25): message : этот аргумент используется в качестве размера буфера
+  ta_lab2_z2.vcxproj -> E:\repository\ta_lab2_z2\x64\Debug\ta_lab2_z2.exe
